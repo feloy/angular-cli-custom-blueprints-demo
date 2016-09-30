@@ -6,12 +6,12 @@ This project demonstrates the possibility to generate a custom blueprint with an
 
 Your custom blueprints should be in subdirectories of the blueprints/ directory of your project.
 
--- your-project
-  -- blueprints
-    -- myclass
-    -- mycomponent
-  -- src
-    -- app
+    -- your-project
+      -- blueprints
+        -- myclass
+        -- mycomponent
+      -- src
+        -- app
 
 You can find templates for your custom blueprints in the angular-cli project, directory packages/angular-cli/blueprints.
 

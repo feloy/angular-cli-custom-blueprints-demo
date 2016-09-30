@@ -2,6 +2,8 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
+It needs patching angular-cli with this PR : https://github.com/angular/angular-cli/pull/2439
+
 This project demonstrates the possibility to generate a custom blueprint with angular-cli.
 
 Your custom blueprints should be in subdirectories of the blueprints/ directory of your project.
@@ -14,5 +16,4 @@ Your custom blueprints should be in subdirectories of the blueprints/ directory 
         -- app
 
 You can find templates for your custom blueprints in the angular-cli project, directory packages/angular-cli/blueprints.
-
 
